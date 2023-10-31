@@ -13,6 +13,8 @@ ACMG_CAP相关资料
 
 `2016-Recommendations for reporting of secondary findings in clinical exome and genome sequencing, 2016 update.pdf <2016-Recommendations for reporting of secondary findings in clinical exome and genome sequencing, 2016 update.pdf>`_
 
+`2023-ACMG SF v3.2 list for reporting of secondary findings in clinical exome and genome sequencing/ A policy statement of the American College of Medical Genetics and Genomics (ACMG).pdf <2023-ACMG SF v3.2 list for reporting of secondary findings in clinical exome and genome sequencing/ A policy statement of the American College of Medical Genetics and Genomics (ACMG).pdf>`_
+
 3.  早在2015年，美国医学遗传学和基因组学（ACMG）以及分子病理学协会（AMP）曾联合出版了变异位点解读指南，基于28个判断标准（criteria）将变异位点分为了Pathogenic、Likely pathogenic、Uncertain significance、Likely benign和Benign五个级别。同样，在2017年，AMP、ASCO和CAP也联合制定了体细胞突变变异位点解读指南，基于变异位点的临床意义将其分为Tier I、Tier II、Tier III、Tier IV四个级别。时隔两年，由中国遗传学会遗传咨询分会领衔的专家团队共同编译了《ACMG遗传变异分类标准与指南》中文版（以下简称“中文版”），并获得美国ACMG的官方授权。中文在线地址：http://acmg.cbgc.org.cn/doku.php?id=start
 
 `2015-Standards and guidelines for the interpretation of sequence variants a joint consensus recommendation of the American College of Medical Genetics and Genomics and the Association for Molecular Pathology.pdf <2015-Standards and guidelines for the interpretation of sequence variants a joint consensus recommendation of the American College of Medical Genetics and Genomics and the Association for Molecular Pathology.pdf>`_
@@ -47,8 +49,6 @@ ACMG_CAP相关资料
 `2019-Diagnostic gene sequencing panels from design to report—a technical standard of the American College of Medical Genetics and Genomics (ACMG).pdf <2019-Diagnostic gene sequencing panels from design to report—a technical standard of the American College of Medical Genetics and Genomics (ACMG).pdf>`_
 
 `CAP Accreditation Program-Molecular Pathology Checklist.pdf <CAP Accreditation Program-Molecular Pathology Checklist.pdf>`_
-
-`2023-ACMG SF v3.2 list for reporting of secondary findings in clinical exome and genome sequencing/ A policy statement of the American College of Medical Genetics and Genomics (ACMG).pdf <2023-ACMG SF v3.2 list for reporting of secondary findings in clinical exome and genome sequencing/ A policy statement of the American College of Medical Genetics and Genomics (ACMG).pdf>`_
 
 FoundationOne 与MSK-IMPACT资料
 **********************************************
