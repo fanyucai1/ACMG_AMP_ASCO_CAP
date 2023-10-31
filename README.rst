@@ -48,6 +48,8 @@ ACMG_CAP相关资料
 
 `CAP Accreditation Program-Molecular Pathology Checklist.pdf <CAP Accreditation Program-Molecular Pathology Checklist.pdf>`_
 
+`2023-ACMG SF v3.2 list for reporting of secondary findings in clinical exome and genome sequencing/ A policy statement of the American College of Medical Genetics and Genomics (ACMG).pdf <2023-ACMG SF v3.2 list for reporting of secondary findings in clinical exome and genome sequencing/ A policy statement of the American College of Medical Genetics and Genomics (ACMG).pdf>`_
+
 FoundationOne 与MSK-IMPACT资料
 **********************************************
 `FoundationOne CDx.pdf <FoundationOne CDx.pdf>`_
