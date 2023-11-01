@@ -5,7 +5,7 @@ ACMG_CAP相关资料
 
 1.  2012年1月美国医学遗传学与基因组学学会（ACMG，American College of Medical Genetics and Genomics）委员会正式批准成立临床外显子和基因组测序工作小组，此小组的任务就是当病人进行外显子或基因组测序时发现的偶发突变给出推荐性的指导。2013年，ACMG发表了一篇关于临床的官方声明，明确强调了偶发变异可能对揭示患者病情、临床测试以及报告结果的重要性。
 
-`2013-ACMG clinical laboratory standards for next-generation sequencing.pdf <reference/2013-ACMG clinical laboratory standards for next-generation sequencing.pdf>`_
+`2013-ACMG clinical laboratory standards for next-generation sequencing.pdf <./reference/2013-ACMG clinical laboratory standards for next-generation sequencing.pdf>`_
 
 `2013-Development and validation of a clinical cancer genomic profiling test based on massively parallel DNA sequencing.pdf <reference/2013-Development and validation of a clinical cancer genomic profiling test based on massively parallel DNA sequencing.pdf>`_
 
