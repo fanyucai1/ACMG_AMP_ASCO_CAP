@@ -44,6 +44,8 @@ ACMG_CAP相关资料
 
     `CAP Accreditation Program-Molecular Pathology Checklist.pdf <reference/CAP Accreditation Program-Molecular Pathology Checklist.pdf>`_
 
+    `Horak P, Griffith M, Danos A M, et al. Standards for the classification of pathogenicity of somatic variants in cancer (oncogenicity): joint recommendations of Clinical Genome Resource (ClinGen), Cancer Genomics Consortium (CGC), and Variant Interpretation for Cancer Consortium (VICC)[J]. Genetics in Medicine, 2022, 24(5): 986-998. <https://www.sciencedirect.com/science/article/pii/S1098360022000016>`_
+
 FoundationOne 与MSK-IMPACT资料
 **********************************************
 
